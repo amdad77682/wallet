@@ -1,0 +1,21 @@
+@import "../modules/core/styles/SidebarComponent";
+@import "../modules/auth/styles/index";
+@import "../modules/common/index";
+@import "../modules/product/styles/index";
+@import "../modules/store/styles/index";
+@import "../modules/profile/styles/index";
+@import "../modules/terms-conditions/styles/index";
+@import "../modules/privacy-policy/styles/index";
+
+$font-stack: "Nunito", sans-serif;
+@font-face {
+  font-family: star;
+  src: url("../assets/font/fontello.woff");
+}
+:root {
+  box-sizing: border-box;
+}
+body {
+  font-family: $font-stack;
+  background-color: #eee;
+}

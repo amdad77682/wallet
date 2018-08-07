@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="755 258 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea4335;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="google-plus" transform="translate(-363 -8503)">
+    <circle id="Ellipse_144" data-name="Ellipse 144" class="cls-1" cx="18" cy="18" r="18" transform="translate(1118 8761)"/>
+    <g id="google-plus-2" data-name="google-plus" transform="translate(1126 8677)">
+      <g id="Group_1232" data-name="Group 1232" transform="translate(13.2 98.4)">
+        <g id="Group_1231" data-name="Group 1231">
+          <path id="Path_1136" data-name="Path 1136" class="cls-2" d="M355.6,162.4V160h-1.2v2.4H352v1.2h2.4V166h1.2v-2.4H358v-1.2Z" transform="translate(-352 -160)"/>
+        </g>
+      </g>
+      <g id="Group_1234" data-name="Group 1234" transform="translate(0 96)">
+        <g id="Group_1233" data-name="Group 1233">
+          <path id="Path_1137" data-name="Path 1137" class="cls-2" d="M6,100.8v2.4H9.395A3.6,3.6,0,1,1,6,98.4a3.547,3.547,0,0,1,2.332.869l1.577-1.81A5.946,5.946,0,0,0,6,96a6,6,0,1,0,6,6v-1.2Z" transform="translate(0 -96)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

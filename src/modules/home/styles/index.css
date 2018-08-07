@@ -1,0 +1,4 @@
+var buttonStyle = {
+  margin: '10px 10px 10px 0'
+};
+export const wellStyles = { maxWidth: 400; margin: '0 auto 10px' };
